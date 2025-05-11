@@ -1,0 +1,4 @@
+Company,Product Name,Cell Throughput,Protocol Time,Chemistry,Price (est.)
+10x Genomics,Chromium Single Cell 3’ Gene Expression,"10,000 – 100,000 cells",<1 day,3’ gene expression,~$500/sample
+Parse Biosciences,Evercode Whole Transcriptome,"100,000+ cells",~6 hours (library prep),Whole transcriptome (combinatorial barcoding),~$450/sample
+Mission Bio,Tapestri Platform,"10,000+ cells/sample",1 day (library prep),DNA and protein multi-omics,~$600/sample
